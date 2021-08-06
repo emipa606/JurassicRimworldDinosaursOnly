@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Jurassic Rimworld - Dinosaurs Only 1.1</name>
+  <author>Serpyderpy</author>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageId>serpy.jurassicrimworlddinosonly1.1</packageId>
+  <description>Life finds a way.
+
+This is an alternate version of Jurassic Rimworld which has had the following removed:
+
+- Amber and the ability to create dinosaurs.
+- Decorations, walls, floors and other buildings.
+- Research topics.
+- Music.
+
+This leaves this mod as-is currently a dinosaur only version of the full mod. This mod will be maintained at the same time as the expanded version of the mod though juggling two mod means one or the other will fall behind sometimes. Please be patient with updates.
+
+Compatible with Dinosauria and Megafauna.</description>
+</ModMetaData>
