@@ -1,14 +1,14 @@
 # JurassicRimworldDinosaursOnly
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Serpyderpys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1804979738
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 Life finds a way.
 
@@ -34,7 +34,7 @@ https://drive.google.com/open?id=1mUvq73FKPU85DunlBPHdDf-CSi3jcAHD
 You are free to use any of the code in this mod as a base, a launchpad, etc.
 Do NOT use any of the art in this mod in other mods without my permission. Thank you.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -44,6 +44,7 @@ Do NOT use any of the art in this mod in other mods without my permission. Thank
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
