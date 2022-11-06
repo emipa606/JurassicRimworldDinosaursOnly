@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="EggFertBase">
+    <defName>IndominusEggFertilized</defName>
+    <label>Indominus egg (fert.)</label>
+    <description>A natural dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Indominus rex specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3</hatcherDaystoHatch>
+        <hatcherPawn>JRWIndominus</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>IndoraptorEggFertilized</defName>
+    <label>Indoraptor egg (fert.)</label>
+    <description>A natural dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Indoraptor rex specimen.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/DinoEgg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <color>(245,245,245)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>7.0</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3</hatcherDaystoHatch>
+        <hatcherPawn>JRWIndoraptor</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>
