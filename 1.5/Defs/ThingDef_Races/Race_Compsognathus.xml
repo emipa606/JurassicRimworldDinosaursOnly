@@ -67,11 +67,11 @@ A tiny bipedal carnivore that primarily eats insects and fish, yet has been obse
     <race>
       <body>QuadrupedAnimalWithPawsAndTail</body>
       <baseHungerRate>0.5</baseHungerRate>
-      <baseBodySize>1.5</baseBodySize>
+      <baseBodySize>0.5</baseBodySize>
       <baseHealthScale>2.0</baseHealthScale>
       <packAnimal>false</packAnimal>
       <predator>true</predator>
-      <maxPreyBodySize>0.8</maxPreyBodySize>
+      <maxPreyBodySize>0.5</maxPreyBodySize>
       <foodType>CarnivoreAnimal</foodType>
       <leatherDef>Leather_SmallDino</leatherDef>
       <useMeatFrom>JRWAcrocanthosaurus</useMeatFrom>
