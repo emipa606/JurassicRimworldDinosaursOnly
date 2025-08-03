@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Indominus egg (fert.) -->
+  <IndominusEggFertilized.label>Indominus egg (fert.)</IndominusEggFertilized.label>
+  <!-- EN: A natural dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Indominus rex specimen. -->
+  <IndominusEggFertilized.description>A natural dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Indominus rex specimen.</IndominusEggFertilized.description>
+  <!-- EN: Indominus egg (unfert.) -->
+  <IndominusEggUnFertilized.label>Indominus egg (unfert.)</IndominusEggUnFertilized.label>
+  <!-- EN: An unfertilized dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. -->
+  <IndominusEggUnFertilized.description>An unfertilized dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within.</IndominusEggUnFertilized.description>
+  <!-- EN: Indoraptor egg (fert.) -->
+  <IndoraptorEggFertilized.label>Indoraptor egg (fert.)</IndoraptorEggFertilized.label>
+  <!-- EN: A natural dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Indoraptor rex specimen. -->
+  <IndoraptorEggFertilized.description>A natural dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. With enough care and patience, this egg will hatch into a Indoraptor rex specimen.</IndoraptorEggFertilized.description>
+  <!-- EN: Indoraptor egg (unfert.) -->
+  <IndoraptorEggUnFertilized.label>Indoraptor egg (unfert.)</IndoraptorEggUnFertilized.label>
+  <!-- EN: An unfertilized dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within. -->
+  <IndoraptorEggUnFertilized.description>An unfertilized dinosaur egg. Behind a veil of light the vague shape of a young dinosaur lays curled safely within.</IndoraptorEggUnFertilized.description>
+</LanguageData>

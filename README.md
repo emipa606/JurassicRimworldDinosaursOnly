@@ -1,9 +1,12 @@
-# [Jurassic Rimworld - Dinosaurs Only (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2567491934)
+# [Jurassic Rimworld - Dinosaurs Only (Continued)]()
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Serpyderpys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1804979738
+
+**The release of RimWorld 1.6 added improved support for [Asset Bundles](https://github.com/emipa606/AssetBuilder/blob/main/README.md)**.
+To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the previous version of this mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2567491934).
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 	
@@ -46,5 +49,3 @@ Do NOT use any of the art in this mod in other mods without my permission. Thank
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
 
-
-[![Image](https://img.shields.io/github/v/release/emipa606/JurassicRimworldDinosaursOnly?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2567491934)
